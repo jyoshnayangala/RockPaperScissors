@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 *{
     margin:0px;
     padding:0px;
@@ -62,69 +61,4 @@ img{
     display:inline;
     padding:0.95rem;
     border-radius:1rem;
-=======
-*{
-    margin:0px;
-    padding:0px;
-    text-align:center;
-}
-
-h1{
-    background-color:#081b31;
-    color:#fff;
-    height:5rem;
-    line-height:5rem;
-}
-.image{
-    height:165px;
-    width:165px;
-    border-radius: 50%;
-    display:flex;
-    justify-content: center;
-    align-items: center;
-
-}
-.image:hover{
-    background-color: #081b31;
-    
-    cursor:pointer;
-}
-img{
-    height:150px;
-    width:150px; 
-    object-fit:cover;
-    border-radius:50%;  
-}
-.imgs{
-    display:flex;
-    justify-content: center;
-    align-items: center;
-    margin-top:3rem;
-    gap:3rem;
-}
-.scores{
-    display:flex;
-    justify-content: center;
-    align-items:center;
-    font-size:2rem;
-    margin-top:3rem;
-    gap:3rem;
-
-}
-#user,#comp{
-    font-size:4rem;
-}
-.msg-box{
-    margin-top:5rem;
-}
-.msg1{
-    background-color: #081b31;
-    color:#fff;
-    font-size: 2rem;
-    height:5rem;
-    margin-top:5rem;
-    display:inline;
-    padding:0.95rem;
-    border-radius:1rem;
->>>>>>> origin/main
 }
